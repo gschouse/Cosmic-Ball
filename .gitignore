@@ -1,0 +1,11 @@
+*.mp3
+*.jpg
+*.png
+*.sks
+*.wav
+*.lproj
+
+
+Images.xcassets
+Info.plist
+arrayballappicons
